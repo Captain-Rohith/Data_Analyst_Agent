@@ -1,5 +1,6 @@
 .vercel
 _pycache_
 __pycache__
-
+.firebaserc
+firebase.json
 
